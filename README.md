@@ -1,6 +1,6 @@
 # Zeroserver Test with SQLite example
 
-More about [Zeroserver]([Zeroserver](https://zeroserver.io/?#getting-started))
+More about [Zeroserver](https://zeroserver.io/?#getting-started)
 
 To run, install [NodeJs and NPM](https://nodejs.org/en/download/)
 
